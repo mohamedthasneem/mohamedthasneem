@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- 🌱 full stack web / mobile developer</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as full stack web / mobile developer <br>- 📚 I'm currently learning AI<br>- ⚡ In my free time Chill with friends <br></p>
 
 ###
 
